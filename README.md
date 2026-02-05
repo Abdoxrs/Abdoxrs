@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abdelrhman 👋
 
-<!--
-**Abdoxrs/Abdoxrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Backend Developer specializing in Node.js, Express, and NestJS.
+Focused on building scalable REST APIs, clean code, and solid backend architecture.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Node.js, Express, NestJS
+- MongoDB, Mongoose, MySQL
+- REST APIs, JWT
+- Git, Docker, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **Creeps Management System** – REST API for company management  
+- **NovaVerse** – Digital agency website (Next.js & TypeScript)
+
+## 🎯 Current Goal
+Actively seeking a **Backend Internship** to gain real-world experience.
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/abdelrhman-atef-b55165377/
